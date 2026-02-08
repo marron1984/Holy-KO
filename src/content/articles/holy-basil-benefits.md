@@ -4,7 +4,7 @@ date: "2025-01-15"
 lastUpdated: "2025-03-01"
 category: "holy-basil"
 description: "ホーリーバジル（トゥルシー）の健康効果を科学的なエビデンスに基づいて解説。アダプトゲンとしてのストレス緩和、抗酸化作用、免疫力サポートなど7つの効能をご紹介します。"
-thumbnail: ""
+thumbnail: "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=800&h=450&fit=crop&q=80"
 author: "tanaka"
 ---
 

@@ -3,7 +3,7 @@ title: "ホーリーバジルの育て方｜初心者でも失敗しない栽培
 date: "2025-03-01"
 category: "holy-basil"
 description: "ホーリーバジル（トゥルシー）を自宅で育てる方法を初心者向けに解説。種まきの時期、水やりのコツ、収穫方法まで、栽培の全てをカバーします。"
-thumbnail: ""
+thumbnail: "https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?w=800&h=450&fit=crop&q=80"
 author: "tanaka"
 ---
 

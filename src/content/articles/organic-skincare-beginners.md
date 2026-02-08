@@ -4,7 +4,7 @@ date: "2025-02-01"
 lastUpdated: "2025-03-10"
 category: "organic-beauty"
 description: "オーガニックスキンケアを始めたい方へ。オーガニック認証の見方、成分の選び方、肌タイプ別のおすすめケア方法など、初心者向けの基礎知識を分かりやすく解説します。"
-thumbnail: ""
+thumbnail: "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=800&h=450&fit=crop&q=80"
 author: "suzuki"
 ---
 

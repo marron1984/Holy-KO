@@ -3,7 +3,7 @@ title: "ホーリーバジルティーの作り方｜基本レシピとアレン
 date: "2025-03-15"
 category: "herbal-life"
 description: "自宅で簡単に作れるホーリーバジルティーの基本レシピと、季節に合わせたアレンジレシピ3選をご紹介。生葉と乾燥葉それぞれの淹れ方を解説します。"
-thumbnail: ""
+thumbnail: "https://images.unsplash.com/photo-1564890369478-c89ca6d9cde9?w=800&h=450&fit=crop&q=80"
 author: "tanaka"
 ---
 

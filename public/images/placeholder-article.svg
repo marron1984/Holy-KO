@@ -1,0 +1,8 @@
+<svg width="800" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="450" fill="#dce5da"/>
+  <circle cx="400" cy="200" r="60" fill="#b9ccb5"/>
+  <path d="M400 160 C400 160 420 180 420 200 C420 220 400 240 400 240 C400 240 380 220 380 200 C380 180 400 160 400 160Z" fill="#4B6344"/>
+  <path d="M400 170 C400 170 430 185 430 205 C430 225 400 240 400 240" stroke="#6b8f64" stroke-width="2" fill="none"/>
+  <text x="400" y="300" text-anchor="middle" font-family="serif" font-size="20" fill="#4B6344">Holy Basil Life</text>
+  <text x="400" y="330" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#8fad89">記事サムネイル</text>
+</svg>

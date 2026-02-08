@@ -1,0 +1,10 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#4B6344"/>
+  <rect x="60" y="60" width="1080" height="510" rx="20" fill="#3d5138" stroke="#6b8f64" stroke-width="2"/>
+  <circle cx="200" cy="315" r="80" fill="#6b8f64" opacity="0.3"/>
+  <path d="M200 255 C200 255 240 285 240 315 C240 345 200 375 200 375 C200 375 160 345 160 315 C160 285 200 255 200 255Z" fill="#8fad89"/>
+  <path d="M200 270 C200 270 250 295 250 325 C250 355 200 375 200 375" stroke="#b9ccb5" stroke-width="3" fill="none"/>
+  <text x="700" y="280" text-anchor="middle" font-family="serif" font-size="64" fill="white" font-weight="bold">Holy Basil Life</text>
+  <text x="700" y="340" text-anchor="middle" font-family="serif" font-size="28" fill="#D4AF37">聖なるハーブで整う暮らし</text>
+  <text x="700" y="400" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#b9ccb5">NPO法人ホーリーバジル普及協会 公式メディア</text>
+</svg>

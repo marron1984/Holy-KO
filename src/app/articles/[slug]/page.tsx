@@ -1,5 +1,6 @@
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
+import Image from "next/image";
 import { Calendar, Clock, ArrowLeft } from "lucide-react";
 import Link from "next/link";
 import { format } from "date-fns";
@@ -75,6 +76,20 @@ export default async function ArticlePage({ params }: Props) {
             </Link>
           </Button>
         </div>
+
+        {/* Thumbnail Image */}
+        {article.thumbnail && (
+          <div className="relative aspect-video rounded-xl overflow-hidden mb-8 bg-sage-100">
+            <Image
+              src={article.thumbnail}
+              alt={article.title}
+              fill
+              sizes="(max-width: 768px) 100vw, 768px"
+              className="object-cover"
+              priority
+            />
+          </div>
+        )}
 
         {/* Article Header */}
         <header className="mb-8">

@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { User } from "lucide-react";
 
 interface AuthorProfileProps {
@@ -15,13 +16,14 @@ export function AuthorProfile({
 }: AuthorProfileProps) {
   return (
     <div className="flex items-start gap-4 p-4 bg-beige-50 rounded-xl border border-sage-200 my-6">
-      <div className="flex-shrink-0 w-14 h-14 rounded-full bg-sage-200 flex items-center justify-center overflow-hidden">
+      <div className="flex-shrink-0 w-14 h-14 rounded-full bg-sage-200 flex items-center justify-center overflow-hidden relative">
         {image ? (
-          // eslint-disable-next-line @next/next/no-img-element
-          <img
+          <Image
             src={image}
             alt={name}
-            className="w-full h-full object-cover"
+            fill
+            sizes="56px"
+            className="object-cover"
           />
         ) : (
           <User className="h-7 w-7 text-sage-500" />
