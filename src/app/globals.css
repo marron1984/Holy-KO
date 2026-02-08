@@ -1,0 +1,72 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;500;700&family=Noto+Sans+JP:wght@400;500;700&display=swap");
+
+:root {
+  --background: #fdfdf8;
+  --foreground: #2f3f2b;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Noto Serif JP", serif;
+}
+
+/* Article prose styles */
+.prose h2 {
+  @apply text-2xl font-bold text-sage-700 mt-10 mb-4 pb-2 border-b border-sage-200;
+}
+
+.prose h3 {
+  @apply text-xl font-bold text-sage-600 mt-8 mb-3;
+}
+
+.prose p {
+  @apply text-base leading-relaxed mb-6 text-sage-800;
+}
+
+.prose ul {
+  @apply list-disc pl-6 mb-6 space-y-2;
+}
+
+.prose ol {
+  @apply list-decimal pl-6 mb-6 space-y-2;
+}
+
+.prose li {
+  @apply text-sage-800 leading-relaxed;
+}
+
+.prose blockquote {
+  @apply border-l-4 border-gold-300 pl-4 py-2 my-6 bg-beige-50 italic text-sage-600;
+}
+
+.prose a {
+  @apply text-sage-500 underline hover:text-sage-400 transition-colors;
+}
+
+.prose img {
+  @apply rounded-lg my-6;
+}
+
+.prose strong {
+  @apply font-bold text-sage-700;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
